@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4da9302e-ab69-4247-88e0-a06617b86bce" name="Default Changelist" comment="homework 1">
-      <change afterPath="$PROJECT_DIR$/hw_2/images/jason-statham-medium.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_2/main.css" afterDir="false" />
+    <list default="true" id="4da9302e-ab69-4247-88e0-a06617b86bce" name="Default Changelist" comment="homework 2">
+      <change afterPath="$PROJECT_DIR$/hw_3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_3/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_2/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/hw_2/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/hw_2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -68,7 +68,14 @@
       <workItem from="1615660210934" duration="82000" />
       <workItem from="1615660310425" duration="597000" />
       <workItem from="1615719089442" duration="1071000" />
-      <workItem from="1615889802229" duration="10749000" />
+      <workItem from="1615889802229" duration="10991000" />
+      <workItem from="1615901518456" duration="19000" />
+      <workItem from="1616008675441" duration="15950000" />
+      <workItem from="1616083572548" duration="2053000" />
+      <workItem from="1616090286746" duration="20000" />
+      <workItem from="1616099606506" duration="780000" />
+      <workItem from="1616100561830" duration="1855000" />
+      <workItem from="1616148905138" duration="1682000" />
     </task>
     <task id="LOCAL-00001" summary="hw 1">
       <created>1615632056683</created>
@@ -77,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615632056683</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="homework 2">
+      <created>1615900806564</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615900806564</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +111,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hw 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw 1" />
+    <MESSAGE value="homework 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework 2" />
   </component>
 </project>

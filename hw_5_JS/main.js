@@ -64,8 +64,8 @@ for (let array of arrays) {
 //task9
 //Створити масив з 10 елементів будь-якого типу. Вивести в консоль всі його елементи в циклі.
 let arrays1 = [5, 25, 50, 'Andriy', 'user'];
-for (let arrays of arrays1) {
-    console.log(arrays);
+for (let array of arrays1) {
+    console.log(array);
 }
 
 //task10

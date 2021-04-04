@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4da9302e-ab69-4247-88e0-a06617b86bce" name="Default Changelist" comment="homework 5 JS">
-      <change afterPath="$PROJECT_DIR$/hw_6_JS/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_6_JS/template1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_6_JS/template2.html" afterDir="false" />
+    <list default="true" id="4da9302e-ab69-4247-88e0-a06617b86bce" name="Default Changelist" comment="homework 6 JS">
+      <change afterPath="$PROJECT_DIR$/hw_7_JS/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_7_JS/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hw_5_JS/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw_5_JS/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_6_JS/template2.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +17,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -43,9 +43,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="js.last.introduce.type" value="LET" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Practic/Lesson5_JS_2/main.js" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.VCS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -87,7 +88,14 @@
       <workItem from="1616752560181" duration="1369000" />
       <workItem from="1616791869285" duration="44000" />
       <workItem from="1617046475642" duration="1321000" />
-      <workItem from="1617095940866" duration="10531000" />
+      <workItem from="1617095940866" duration="11447000" />
+      <workItem from="1617189390050" duration="194000" />
+      <workItem from="1617266293079" duration="10032000" />
+      <workItem from="1617278623658" duration="25000" />
+      <workItem from="1617278649770" duration="17058000" />
+      <workItem from="1617359727767" duration="11666000" />
+      <workItem from="1617444104741" duration="10585000" />
+      <workItem from="1617530388484" duration="5139000" />
     </task>
     <task id="LOCAL-00001" summary="hw 1">
       <created>1615632056683</created>
@@ -124,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616706062029</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="homework 6 JS">
+      <created>1617109416036</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1617109416036</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +163,11 @@
     <MESSAGE value="homework 3" />
     <MESSAGE value="homework 4 JS" />
     <MESSAGE value="homework 5 JS" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework 5 JS" />
+    <MESSAGE value="homework 6 JS" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework 6 JS" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

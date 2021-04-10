@@ -155,7 +155,7 @@ let filter = cars.filter((value) => value.volume>=3 && value.producer==='mercede
 console.log(filter);
 // - двигун більше 3х літрів + виробник субару
 let filterSubaru = cars.filter((value)=>value.volume>2 && value.producer==='subaru');
-console.log(filterSubaru); // don`t work print empty array
+console.log(filterSubaru); 
 
 // - сили більше ніж 300
 let filter1 = cars.filter(value => value.power>300 );

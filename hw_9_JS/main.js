@@ -179,7 +179,7 @@ console.log(filter5); // виводить всіх мерсів
 
 // - двигун більше 2л + сили більше 250
 let filter6 = cars.filter(value => value.volume>2 && value.power>250);
-console.log(filter6); //dont work
+console.log(filter6); 
 
 // - сили більше 250  + виробник бмв
 let filter7 = cars.filter(value => value.power>250 && value.producer==='bmw');

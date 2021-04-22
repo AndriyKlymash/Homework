@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4da9302e-ab69-4247-88e0-a06617b86bce" name="Default Changelist" comment="homework 6 JS">
-      <change afterPath="$PROJECT_DIR$/hw_7_JS/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_7_JS/main.js" afterDir="false" />
+    <list default="true" id="4da9302e-ab69-4247-88e0-a06617b86bce" name="Default Changelist" comment="homework 11 JS">
+      <change afterPath="$PROJECT_DIR$/hw_12_JS/in.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_12_JS/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_5_JS/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw_5_JS/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_6_JS/template2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_10_JS/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw_10_JS/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_10_JS/main2.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw_10_JS/main2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_6_JS/template2.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw_6_JS/template2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_7_JS/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw_7_JS/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_8_JS/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw_8_JS/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_9_JS/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw_9_JS/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +34,14 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1phLCpzLl7r5YrVlPg6gqIUihI7" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -44,9 +56,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.last.introduce.type" value="LET" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Practic/Lesson5_JS_2/main.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.VCS" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -95,7 +107,38 @@
       <workItem from="1617278649770" duration="17058000" />
       <workItem from="1617359727767" duration="11666000" />
       <workItem from="1617444104741" duration="10585000" />
-      <workItem from="1617530388484" duration="5139000" />
+      <workItem from="1617530388484" duration="5561000" />
+      <workItem from="1617554232510" duration="2484000" />
+      <workItem from="1617564604713" duration="16000" />
+      <workItem from="1617615640765" duration="973000" />
+      <workItem from="1617630558075" duration="4690000" />
+      <workItem from="1617704083125" duration="23172000" />
+      <workItem from="1617786347584" duration="3484000" />
+      <workItem from="1617790688962" duration="2321000" />
+      <workItem from="1617793455600" duration="846000" />
+      <workItem from="1617794438859" duration="603000" />
+      <workItem from="1617795163681" duration="15002000" />
+      <workItem from="1617871037183" duration="24050000" />
+      <workItem from="1617914547023" duration="281000" />
+      <workItem from="1617959601894" duration="14179000" />
+      <workItem from="1618044909457" duration="21334000" />
+      <workItem from="1618085268712" duration="27000" />
+      <workItem from="1618085411022" duration="923000" />
+      <workItem from="1618132986262" duration="34000" />
+      <workItem from="1618217517025" duration="1875000" />
+      <workItem from="1618301630477" duration="22973000" />
+      <workItem from="1618386911426" duration="13737000" />
+      <workItem from="1618478075162" duration="14820000" />
+      <workItem from="1618522446210" duration="2153000" />
+      <workItem from="1618572261795" duration="8586000" />
+      <workItem from="1618663690472" duration="5304000" />
+      <workItem from="1618678231352" duration="4844000" />
+      <workItem from="1618684770729" duration="15043000" />
+      <workItem from="1618838925895" duration="8159000" />
+      <workItem from="1619031921542" duration="1055000" />
+      <workItem from="1619095077936" duration="1260000" />
+      <workItem from="1619096370641" duration="4675000" />
+      <workItem from="1619106700783" duration="6116000" />
     </task>
     <task id="LOCAL-00001" summary="hw 1">
       <created>1615632056683</created>
@@ -139,7 +182,42 @@
       <option name="project" value="LOCAL" />
       <updated>1617109416036</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="homework 7 JS">
+      <created>1617553827484</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1617553827484</updated>
+    </task>
+    <task id="LOCAL-00008" summary="homework 9 JS">
+      <created>1618046888380</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1618046888380</updated>
+    </task>
+    <task id="LOCAL-00009" summary="homework 8 JS">
+      <created>1618065172271</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1618065172271</updated>
+    </task>
+    <task id="LOCAL-00010" summary="homework 10 JS">
+      <created>1618682477742</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1618682477742</updated>
+    </task>
+    <task id="LOCAL-00011" summary="homework 11 JS">
+      <created>1619098504113</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1619098504113</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,7 +242,12 @@
     <MESSAGE value="homework 4 JS" />
     <MESSAGE value="homework 5 JS" />
     <MESSAGE value="homework 6 JS" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework 6 JS" />
+    <MESSAGE value="homework 7 JS" />
+    <MESSAGE value="homework 9 JS" />
+    <MESSAGE value="homework 8 JS" />
+    <MESSAGE value="homework 10 JS" />
+    <MESSAGE value="homework 11 JS" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework 11 JS" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

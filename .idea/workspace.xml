@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4da9302e-ab69-4247-88e0-a06617b86bce" name="Default Changelist" comment="homework 11 JS">
-      <change afterPath="$PROJECT_DIR$/hw_12_JS/in.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_12_JS/main.js" afterDir="false" />
+    <list default="true" id="4da9302e-ab69-4247-88e0-a06617b86bce" name="Default Changelist" comment="homework 12 JS">
+      <change afterPath="$PROJECT_DIR$/hw_13_JS/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_13_JS/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hw_10_JS/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw_10_JS/index2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hw_10_JS/main2.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw_10_JS/main2.js" afterDir="false" />
@@ -56,7 +56,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.last.introduce.type" value="LET" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../React" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -138,7 +138,12 @@
       <workItem from="1619031921542" duration="1055000" />
       <workItem from="1619095077936" duration="1260000" />
       <workItem from="1619096370641" duration="4675000" />
-      <workItem from="1619106700783" duration="6116000" />
+      <workItem from="1619106700783" duration="6705000" />
+      <workItem from="1619121465136" duration="77000" />
+      <workItem from="1619182715814" duration="610000" />
+      <workItem from="1619342752713" duration="2683000" />
+      <workItem from="1619432264813" duration="867000" />
+      <workItem from="1619454110104" duration="1276000" />
     </task>
     <task id="LOCAL-00001" summary="hw 1">
       <created>1615632056683</created>
@@ -217,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619098504113</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="homework 12 JS">
+      <created>1619118572209</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1619118572209</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,7 +259,8 @@
     <MESSAGE value="homework 8 JS" />
     <MESSAGE value="homework 10 JS" />
     <MESSAGE value="homework 11 JS" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework 11 JS" />
+    <MESSAGE value="homework 12 JS" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework 12 JS" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

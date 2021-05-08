@@ -5,7 +5,6 @@ export default function Car(props) {
         inc,
         dec,
         res,
-        image
     } = props
     // let [cars, setCars] = useState(carsList);
     // const deleteCar = () => {

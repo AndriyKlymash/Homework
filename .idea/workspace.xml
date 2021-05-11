@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4da9302e-ab69-4247-88e0-a06617b86bce" name="Default Changelist" comment="homework 12 JS">
-      <change afterPath="$PROJECT_DIR$/hw_13_JS/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_13_JS/main.js" afterDir="false" />
+    <list default="true" id="4da9302e-ab69-4247-88e0-a06617b86bce" name="Default Changelist" comment="homework_3_react">
+      <change afterPath="$PROJECT_DIR$/hw_3_react/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_3_react/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_3_react/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_3_react/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_3_react/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_3_react/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_3_react/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_3_react/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_3_react/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_3_react/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_3_react/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_3_react/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw_3_react/src/setupTests.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_10_JS/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw_10_JS/index2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_10_JS/main2.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw_10_JS/main2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_6_JS/template2.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw_6_JS/template2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_7_JS/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw_7_JS/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_8_JS/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw_8_JS/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_9_JS/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw_9_JS/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +38,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -43,7 +49,7 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1phLCpzLl7r5YrVlPg6gqIUihI7" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -56,9 +62,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.last.introduce.type" value="LET" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../React" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -144,6 +151,9 @@
       <workItem from="1619342752713" duration="2683000" />
       <workItem from="1619432264813" duration="867000" />
       <workItem from="1619454110104" duration="1276000" />
+      <workItem from="1620463143909" duration="820000" />
+      <workItem from="1620464263531" duration="361000" />
+      <workItem from="1620464631128" duration="1021000" />
     </task>
     <task id="LOCAL-00001" summary="hw 1">
       <created>1615632056683</created>
@@ -229,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619118572209</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="homework_3_react">
+      <created>1620464946287</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1620464946287</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,6 +265,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/hw_3_react" />
+    </ignored-roots>
     <MESSAGE value="hw 1" />
     <MESSAGE value="homework 2" />
     <MESSAGE value="homework 3" />
@@ -260,7 +280,8 @@
     <MESSAGE value="homework 10 JS" />
     <MESSAGE value="homework 11 JS" />
     <MESSAGE value="homework 12 JS" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework 12 JS" />
+    <MESSAGE value="homework_3_react" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework_3_react" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

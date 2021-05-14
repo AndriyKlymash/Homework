@@ -2,11 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2015530a-16f0-4e6f-b96a-595c72dbc0e3" name="Default Changelist" comment="hw_4_react">
-      <change afterPath="$PROJECT_DIR$/../hw_3_react/src/services/api.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw_3_react/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../hw_3_react/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw_3_react/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../hw_3_react/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw_3_react/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../hw_3_react/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_5_react/src/Post/Post.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_5_react/src/Posts/Posts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_5_react/src/Practice/Details/Details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_5_react/src/Practice/List-user/ListUser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_5_react/src/Practice/List-users/ListUsers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_5_react/src/Practice/Single-user-element/SingleUserElement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_5_react/src/Practice/Single-user/SingleUser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_5_react/src/User-details/UserDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_5_react/src/User/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw_5_react/src/Users/Users.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Character/Character.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Character/Character.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +88,10 @@
       <workItem from="1620837930934" duration="1032000" />
       <workItem from="1620893445918" duration="6652000" />
       <workItem from="1620918495407" duration="623000" />
+      <workItem from="1620920039957" duration="1613000" />
+      <workItem from="1620925676537" duration="16000" />
+      <workItem from="1620929888502" duration="42000" />
+      <workItem from="1621002807675" duration="400000" />
     </task>
     <task id="LOCAL-00001" summary="hw_4_react">
       <created>1620918280346</created>

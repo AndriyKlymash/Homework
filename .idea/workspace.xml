@@ -2,8 +2,156 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14c6c4df-0e64-452d-b0b8-22de2857d1a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/typescript/app.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_1/.idea/Homework.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_1/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_1/images/jason-statham-medium.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_10_JS/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_10_JS/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_10_JS/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_10_JS/main2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_11_JS/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_11_JS/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_12_JS/in.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_12_JS/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_1_react/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_1_react/src/components/Character/characterComponent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_1_react/src/components/Character/characterComponents.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_1_react/src/components/car/car.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_2/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_2/.idea/hw_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_2/images/jason-statham-medium.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_2/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3/.idea/hw_3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3_react/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3_react/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3_react/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3_react/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3_react/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3_react/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3_react/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3_react/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3_react/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3_react/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3_react/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3_react/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3_react/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3_react/src/components/post/Post.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3_react/src/components/posts/Posts.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3_react/src/components/posts/Posts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3_react/src/components/user/User.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3_react/src/components/users/Users.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3_react/src/components/users/users.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3_react/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3_react/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3_react/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3_react/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_3_react/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_4_JS/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_4_JS/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_4_react/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_4_react/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_4_react/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_4_react/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_4_react/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_4_react/src/Components/Cast/Cast.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_4_react/src/Components/Character/Character.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_4_react/src/Components/Inventory/Inventory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_4_react/src/Components/InventoryElement/InventoryElement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_4_react/src/Components/cast-details/CastDetails.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_4_react/src/Components/inventory-details/InventoryDetails.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_4_react/src/Services/api.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_5_JS/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_5_JS/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_5_react/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_5_react/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_5_react/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_5_react/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_5_react/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_5_react/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_5_react/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_5_react/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_5_react/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_5_react/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_5_react/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_5_react/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_5_react/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_5_react/src/Post-details/PostDetails.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_5_react/src/Post/Post.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_5_react/src/Posts/Posts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_5_react/src/Practice/Details/Details.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_5_react/src/Practice/List-user/ListUser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_5_react/src/Practice/List-users/ListUsers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_5_react/src/Practice/Single-user-element/SingleUserElement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_5_react/src/Practice/Single-user/SingleUser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_5_react/src/User-details/UserDetails.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_5_react/src/User/User.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_5_react/src/Users/Users.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_5_react/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_5_react/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_5_react/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_5_react/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_5_react/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_6_JS/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_6_JS/template1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_6_JS/template2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_6_react_practice/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_6_react_practice/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_6_react_practice/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_6_react_practice/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_6_react_practice/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_6_react_practice/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_6_react_practice/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_6_react_practice/src/Components/Counter/Counter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_6_react_practice/src/Redux/Reducer/Index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_6_react_practice/src/Redux/Reducer/Reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_6_react_practice/src/Route/Route.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_6_react_practice/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_6_react_practice/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_6_react_practice/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_6_react_practice/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_6_react_practice/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_7_JS/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_7_JS/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_7_react_practice/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_7_react_practice/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_7_react_practice/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_7_react_practice/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_7_react_practice/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_7_react_practice/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_7_react_practice/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_7_react_practice/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_7_react_practice/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_7_react_practice/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_7_react_practice/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_7_react_practice/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_7_react_practice/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_7_react_practice/src/Components/Inputs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_7_react_practice/src/Components/Todo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_7_react_practice/src/Redux/Reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_7_react_practice/src/Redux/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_7_react_practice/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_7_react_practice/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_7_react_practice/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_7_react_practice/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_7_react_practice/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_8_JS/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_8_JS/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_9_JS/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_9_JS/main.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,21 +173,90 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectId" id="1tAvqYteTcZfxVZ1ifcm48jbWh2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14c6c4df-0e64-452d-b0b8-22de2857d1a1" name="Default Changelist" comment="" />
+      <created>1622224900608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622224900608</updated>
+      <workItem from="1622224902164" duration="446000" />
+    </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/typescript/app.js" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="hw_7_react_redux" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="hw_7_react_redux" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master_clean" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="hw_8_typescript" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>

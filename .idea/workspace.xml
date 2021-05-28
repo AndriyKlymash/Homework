@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4da9302e-ab69-4247-88e0-a06617b86bce" name="Default Changelist" comment="homework_3_react">
-      <change afterPath="$PROJECT_DIR$/hw_3_react/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_3_react/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_3_react/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_3_react/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_3_react/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_3_react/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_3_react/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_3_react/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_3_react/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_3_react/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_3_react/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_3_react/src/reportWebVitals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw_3_react/src/setupTests.js" afterDir="false" />
+    <list default="true" id="14c6c4df-0e64-452d-b0b8-22de2857d1a1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/typescript/app.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,232 +13,26 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
-        <option value="HTML File" />
-        <option value="JavaScript File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="master_clean" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="ROOT_SYNC" value="SYNC" />
   </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
-  </component>
-  <component name="ProjectId" id="1phLCpzLl7r5YrVlPg6gqIUihI7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="js.last.introduce.type" value="LET" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-    <property name="vue.rearranger.settings.migration" value="true" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\andri\WebstormProjects\Homework\hw_2" />
-    </key>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="4da9302e-ab69-4247-88e0-a06617b86bce" name="Default Changelist" comment="" />
-      <created>1615630250643</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1615630250643</updated>
-      <workItem from="1615630251813" duration="37000" />
-      <workItem from="1615630305030" duration="145000" />
-      <workItem from="1615630464902" duration="27000" />
-      <workItem from="1615631719175" duration="1290000" />
-      <workItem from="1615633035030" duration="1867000" />
-      <workItem from="1615650803002" duration="88000" />
-      <workItem from="1615660210934" duration="82000" />
-      <workItem from="1615660310425" duration="597000" />
-      <workItem from="1615719089442" duration="1071000" />
-      <workItem from="1615889802229" duration="10991000" />
-      <workItem from="1615901518456" duration="19000" />
-      <workItem from="1616008675441" duration="15950000" />
-      <workItem from="1616083572548" duration="2053000" />
-      <workItem from="1616090286746" duration="20000" />
-      <workItem from="1616099606506" duration="780000" />
-      <workItem from="1616100561830" duration="1855000" />
-      <workItem from="1616148905138" duration="2875000" />
-      <workItem from="1616155369672" duration="80000" />
-      <workItem from="1616442176134" duration="5661000" />
-      <workItem from="1616492855182" duration="17090000" />
-      <workItem from="1616575645506" duration="18053000" />
-      <workItem from="1616661993330" duration="21380000" />
-      <workItem from="1616691228030" duration="3843000" />
-      <workItem from="1616752560181" duration="1369000" />
-      <workItem from="1616791869285" duration="44000" />
-      <workItem from="1617046475642" duration="1321000" />
-      <workItem from="1617095940866" duration="11447000" />
-      <workItem from="1617189390050" duration="194000" />
-      <workItem from="1617266293079" duration="10032000" />
-      <workItem from="1617278623658" duration="25000" />
-      <workItem from="1617278649770" duration="17058000" />
-      <workItem from="1617359727767" duration="11666000" />
-      <workItem from="1617444104741" duration="10585000" />
-      <workItem from="1617530388484" duration="5561000" />
-      <workItem from="1617554232510" duration="2484000" />
-      <workItem from="1617564604713" duration="16000" />
-      <workItem from="1617615640765" duration="973000" />
-      <workItem from="1617630558075" duration="4690000" />
-      <workItem from="1617704083125" duration="23172000" />
-      <workItem from="1617786347584" duration="3484000" />
-      <workItem from="1617790688962" duration="2321000" />
-      <workItem from="1617793455600" duration="846000" />
-      <workItem from="1617794438859" duration="603000" />
-      <workItem from="1617795163681" duration="15002000" />
-      <workItem from="1617871037183" duration="24050000" />
-      <workItem from="1617914547023" duration="281000" />
-      <workItem from="1617959601894" duration="14179000" />
-      <workItem from="1618044909457" duration="21334000" />
-      <workItem from="1618085268712" duration="27000" />
-      <workItem from="1618085411022" duration="923000" />
-      <workItem from="1618132986262" duration="34000" />
-      <workItem from="1618217517025" duration="1875000" />
-      <workItem from="1618301630477" duration="22973000" />
-      <workItem from="1618386911426" duration="13737000" />
-      <workItem from="1618478075162" duration="14820000" />
-      <workItem from="1618522446210" duration="2153000" />
-      <workItem from="1618572261795" duration="8586000" />
-      <workItem from="1618663690472" duration="5304000" />
-      <workItem from="1618678231352" duration="4844000" />
-      <workItem from="1618684770729" duration="15043000" />
-      <workItem from="1618838925895" duration="8159000" />
-      <workItem from="1619031921542" duration="1055000" />
-      <workItem from="1619095077936" duration="1260000" />
-      <workItem from="1619096370641" duration="4675000" />
-      <workItem from="1619106700783" duration="6705000" />
-      <workItem from="1619121465136" duration="77000" />
-      <workItem from="1619182715814" duration="610000" />
-      <workItem from="1619342752713" duration="2683000" />
-      <workItem from="1619432264813" duration="867000" />
-      <workItem from="1619454110104" duration="1276000" />
-      <workItem from="1620463143909" duration="820000" />
-      <workItem from="1620464263531" duration="361000" />
-      <workItem from="1620464631128" duration="1021000" />
-    </task>
-    <task id="LOCAL-00001" summary="hw 1">
-      <created>1615632056683</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1615632056683</updated>
-    </task>
-    <task id="LOCAL-00002" summary="homework 2">
-      <created>1615900806564</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1615900806564</updated>
-    </task>
-    <task id="LOCAL-00003" summary="homework 3">
-      <created>1616150730039</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1616150730039</updated>
-    </task>
-    <task id="LOCAL-00004" summary="homework 4 JS">
-      <created>1616598504857</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1616598504857</updated>
-    </task>
-    <task id="LOCAL-00005" summary="homework 5 JS">
-      <created>1616706062029</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1616706062029</updated>
-    </task>
-    <task id="LOCAL-00006" summary="homework 6 JS">
-      <created>1617109416036</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1617109416036</updated>
-    </task>
-    <task id="LOCAL-00007" summary="homework 7 JS">
-      <created>1617553827484</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1617553827484</updated>
-    </task>
-    <task id="LOCAL-00008" summary="homework 9 JS">
-      <created>1618046888380</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1618046888380</updated>
-    </task>
-    <task id="LOCAL-00009" summary="homework 8 JS">
-      <created>1618065172271</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1618065172271</updated>
-    </task>
-    <task id="LOCAL-00010" summary="homework 10 JS">
-      <created>1618682477742</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1618682477742</updated>
-    </task>
-    <task id="LOCAL-00011" summary="homework 11 JS">
-      <created>1619098504113</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1619098504113</updated>
-    </task>
-    <task id="LOCAL-00012" summary="homework 12 JS">
-      <created>1619118572209</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1619118572209</updated>
-    </task>
-    <task id="LOCAL-00013" summary="homework_3_react">
-      <created>1620464946287</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1620464946287</updated>
-    </task>
-    <option name="localTasksCounter" value="14" />
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -263,28 +45,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$/hw_3_react" />
-    </ignored-roots>
-    <MESSAGE value="hw 1" />
-    <MESSAGE value="homework 2" />
-    <MESSAGE value="homework 3" />
-    <MESSAGE value="homework 4 JS" />
-    <MESSAGE value="homework 5 JS" />
-    <MESSAGE value="homework 6 JS" />
-    <MESSAGE value="homework 7 JS" />
-    <MESSAGE value="homework 9 JS" />
-    <MESSAGE value="homework 8 JS" />
-    <MESSAGE value="homework 10 JS" />
-    <MESSAGE value="homework 11 JS" />
-    <MESSAGE value="homework 12 JS" />
-    <MESSAGE value="homework_3_react" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework_3_react" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
 </project>
